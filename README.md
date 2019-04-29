@@ -1,2 +1,3 @@
 # Logisticapp
-A simple courier service mobile app that can enable you to make a pick up request, save uncompleted request form, track items using google map features, scan barcodes and many more. Built with React Native, Redux and router-flux
+A simple 'Courier Service App', The courier mobile app allows you to manage your courier assignments, parcels, orders & customers entry, and their tracking status through your Android smartphones. Built with React Native, Redux and router-flux.
+
